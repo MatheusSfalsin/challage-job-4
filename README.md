@@ -6,6 +6,8 @@ Dentro desse repositório tem 2 imagens para o design do projeto, mas pode acres
 
 [FIGMA do Projeto](https://www.figma.com/design/UNhabLNoT4YDCFijcfE3w1/Desafio-4.0?node-id=0-1&t=IH9PgIYxPBQLw5Mm-1)
 
+[Biblioteca de Ícones](https://untitled-theme-docs.vercel.app/)
+
 ## Tecnologias a serem Utilizadas
 
 - Next.js
